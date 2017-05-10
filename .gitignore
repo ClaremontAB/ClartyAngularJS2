@@ -4,3 +4,4 @@
 *.project
 *.settings
 */bin
+/frontendAngularJS2TypeScript/node_modules
