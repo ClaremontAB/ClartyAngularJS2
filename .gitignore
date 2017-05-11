@@ -5,3 +5,4 @@
 *.settings
 */bin
 /frontendAngularJS2TypeScript/node_modules
+/frontendAngularJS2TypeScript/src/js
